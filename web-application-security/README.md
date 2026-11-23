@@ -43,4 +43,3 @@ Screenshots are stored in the evidence directory.
 Testing was performed exclusively against a local
 OWASP Juice Shop instance. Findings describe the tested
 application and do not imply vulnerabilities in other systems.
-EOF
