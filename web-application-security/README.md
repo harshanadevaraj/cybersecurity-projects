@@ -37,7 +37,7 @@ Manual testing using Burp Proxy, HTTP history, and Repeater,
 with separate test accounts and controlled payloads.
 
 ## Evidence
-Screenshots are stored in the evidence directory.
+Evidence screenshots are retained locally pending review and redaction of sensitive information.
 
 ## Limitations
 Testing was performed exclusively against a local
